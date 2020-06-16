@@ -1,0 +1,9 @@
+Package: com.icraze.settingsudid
+Name: SettingsUDID
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: View your UDID from the Settings app About page!
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
